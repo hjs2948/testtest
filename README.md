@@ -10,7 +10,8 @@
 풍경 이미지
 
 <img
-src="https://imgnews.pstatic.net/image/009/2021/05/12/0004792945_001_20210512150402583.jpg?type=w647"
+src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAyMjhfOTEg%2FMDAxNjE0NTEyNDI0Nzg0.MhI8QKQnCkKD7nSHSGhw15uD8tSt1fWRbhkaDs07hL0g.b-oWXzjR0hcBzYC3NLHniDaYDaCccaAX_Ox-62rr6Acg.JPEG.ringtomato17%2FKakaoTalk_20210228_201639632.jpg&type=sc960_832
+type=w647"
 width="30%">
 
 
