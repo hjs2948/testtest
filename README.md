@@ -10,8 +10,7 @@
 풍경 이미지
 
 <img
-src=https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMDFfMTg2%2FMDAxNjA5NDg1OTczMTI2.znGoe6pPaXCPq8xOfcY-vQMEntwxJqeVFH8YzzA8IFQg.Xx86cSchRt1A7F9UWfSG1UOHzuIpRCt3apZ9xW799-gg.PNG.sad5min%2F20201231.png
-type=w647"
+src=https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMDFfMTg2%2FMDAxNjA5NDg1OTczMTI2.znGoe6pPaXCPq8xOfcY-vQMEntwxJqeVFH8YzzA8IFQg.Xx86cSchRt1A7F9UWfSG1UOHzuIpRCt3apZ9xW799-gg.PNG.sad5min%2F20201231.png&type=w647"
 width="30%">
 
 
