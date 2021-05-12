@@ -10,7 +10,7 @@
 풍경 이미지
 
 <img
-src="https://user-images.githubusercontent.com/84062333/117950310-05bc9c80-b34e-11eb-8012-4d6a036a869a.png&
+src="https://user-images.githubusercontent.com/84062333/117927301-faa94280-b334-11eb-81bb-4863958eb700.png
 type=w647"
 width="30%">
 
