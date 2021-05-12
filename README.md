@@ -12,8 +12,6 @@
 
 <img src="https://user-images.githubusercontent.com/84062333/117927301-faa94280-b334-11eb-81bb-4863958eb700.png?type=w647"
 width="30%">
-<img src="https://imgnews.pstatic.net/image/001/2021/05/12/PYH2021051214430001300_P4_20210512145412942.jpg?type=w647"                                 
-width="30%">
 
 
 
